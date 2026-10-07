@@ -3,4 +3,5 @@
 - elsó weboldal
 - html elemek
 - táblázat gyakotlás
-- pseudo elemek
+- pseudo osztályok
+- kombinátor szelektorok
